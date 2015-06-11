@@ -1,0 +1,92 @@
+a) Erzeugen sie das kartesische Produkt der Tabellen "Angebot" und "Kunden"
+
+Lösung:
+
+a1) Erzeugen sie das kartesische Produkt der Tabellen "Gesuch" und "Kunden"
+
+Lösung: 
+
+a2) Erzeugen sie das kartesische Produkt der Tabellen "Auto" und "Kunden"
+
+Lösung:
+
+-----------------------------------------------------------------------------------------
+b.) Schränekn Sie das kartesische Produkt so ein, dass nur die Zeilen enthalten sind, 
+    in denen die jeweilige Personen und das Angebot über die Zugehörigkeit verknüpft sind.
+    Geben Sie das Ergebnis mit allen Spalten aus
+
+
+Lösung:
+
+
+b2) Schränekn Sie das kartesische Produkt so ein, dass nur die Zeilen enthalten sind, 
+    in denen die jeweilige Personen und das Gesuch über die Zugehörigkeit verknüpft sind.
+    Geben Sie das Ergebnis mit allen Spalten aus
+
+
+Lösung:
+
+
+
+b3) Schränekn Sie das kartesische Produkt so ein, dass nur die Zeilen enthalten sind, 
+    in denen die jeweilige Personen und das Auto über die Zugehörigkeit verknüpft sind.
+    Geben Sie das Ergebnis mit allen Spalten aus
+
+
+Lösung:
+
+
+-----------------------------------------------------------------------------------------
+
+c) Schränken Sie das karthesische Produkt folgendermaßen weiter ein:
+   Geben Sie Name des Kundes, Ort, Tel-Nummer und die zugehörenden Angebote aus 
+
+
+Lösung:
+ 
+
+
+c1) Schränken Sie das karthesische Produkt folgendermaßen weiter ein:
+   Geben Sie Name des Kundes, Ort, Tel-Nummer und die zugehörenden Gesuches aus  
+
+
+Lösung:
+
+
+c2) Schränken Sie das karthesische Produkt folgendermaßen weiter ein:
+   Geben Sie Name des Kundes, Ort, Tel-Nummer und die zugehörenden Autos aus  
+
+
+Lösung:
+
+
+------------------------------------------------------------------------------------------
+
+c) alternativ
+
+c) Schränken Sie das karthesische Produkt folgendermaßen weiter ein:
+   Geben Sie Name des Kundes, Ort, Tel-Nummer und die zugehörenden Angebote aus aller Kunden die
+   aus Wiesloch kommen
+
+Lösung:
+
+
+c1) Schränken Sie das karthesische Produkt folgendermaßen weiter ein:
+    Geben Sie Name des Kundes, Ort, Tel-Nummer und die zugehörenden Gesuches aus  aller Kunden die
+    aus Wiesloch kommen
+
+Lösung:
+
+c2)  Schränken Sie das karthesische Produkt folgendermaßen weiter ein:
+     Geben Sie Name des Kundes, Ort, Tel-Nummer und die zugehörenden Autos aus aller Kunden die aus Wiesloch
+     kommen
+
+
+Lösung:
+
+
+
+
+
+
+   
