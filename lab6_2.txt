@@ -1,0 +1,124 @@
+6.2
+
+a) Erzeugen Sie das kartesische Produkt der Tabellen "Kunde","Angebot","Gesuch" und
+   geben Sie alle Spalten aller Datensätze aus
+
+   Lösung:
+
+a2) Erzeugen Sie das kartesische Produkt der Tabellen "Ort","Mitarbeiter","Kunde" und
+    geben Sie alle Spalten aller Datensätze aus
+
+   Lösung:
+
+a2) Erzeugen Sie das kartesische Produkt der Tabellen "Auto","Mitarbeiter","Kunde" und
+    geben Sie alle Spalten aller Datensätze aus
+
+   Lösung:
+
+
+a3)  Erzeugen Sie das kartesische Produkt der Tabellen "Vermittlung","Strecke","Ort" und
+    geben Sie alle Spalten aller Datensätze aus
+
+   Lösung:
+
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+b) 
+   (I)
+
+   Schränken Sie das karthesische Produkt so ein, dass nur die Zeilen enthalten sind, 
+   in denen der jeweilige Kunde über die Angebot-Beziehung mit dem enstprechenden Angebot 
+   verknüpft ist. Geben Sie das Ergebnis mit allen Spalten aus
+
+   Lösung:
+
+
+b) (II)
+
+   Schränken Sie das karthesische Produkt so ein, dass nur die Zeilen enthalten sind, 
+   in denen der jeweilige Kunde über die Gesuch-Beziehung mit dem enstprechenden Gesuch
+   verknüpft ist. Geben Sie das Ergebnis mit allen Spalten aus
+
+   Lösung:
+
+
+
+b2) -> WELCHER MITARBEITER HAT WELCHEN AUFTRAG VOM WELCHEN KUNDEN BEARBEITET
+
+
+b3)    Schränken Sie das karthesische Produkt so ein, dass nur die Zeilen enthalten sind, 
+       in denen der jeweilige Ort über die Vermittlung-Beziehung mit dem enstprechenden Angebot
+       verknüpft ist. Geben Sie das Ergebnis mit allen Spalten aus
+
+
+-----------------------------------------------------------------------------------------------
+
+
+c) 
+   (I)
+
+   Geben sie zu allen Kunden, die ein Gesuch eingestellt haben, Name, GesuchNr und die Strecke des 
+   Gesuchs aus
+
+
+   Lösung:
+
+c) (II)
+
+   Geben sie zu allen Kunden, die ein Angebot eingestellt haben, Name, GesuchNr und die Strecke des 
+   Angebots aus
+
+
+
+   Lösung:
+
+
+
+c1) Geben sie zu allen Kunden, die ein Auto haben Name, Kennzeichen, und Modell aus.
+
+   Lösung:
+
+
+c2) Geben sie zu allen Orten, die in einem Gesuch vorhanden waren die Strecken aus.
+
+   Lösung:
+
+
+-------------------------------------------------------------------------------------------------
+
+
+   (I)
+d) Geben sie in einem SELECT-Befhel alle Kunden aus. 
+   Geben Sie dabei Kunden, die ein Gesuch eingestellt haben Name, KundenNr, GesuchNr, Orte des 
+   Gesuches, Wohnort des Kunden und GesuchNr aus. Lassen sie bei Kunden, die kein Gesuch eingestellt haben
+   die Spalte mit Gesuchnr und Orte leer.
+
+
+d) (II)
+    Geben sie in einem SELECT-Befhel alle Kunden aus. 
+   Geben Sie dabei Kunden, die ein Angebot eingestellt haben Name, KundenNr, GesuchNr, Orte des 
+   Gesuches, Wohnort des Kunden und Angebot aus. Lassen sie bei Kunden, die kein Angebot eingestellt haben
+   die Spalte mit Angebot und Orte leer.
+
+
+
+d1) Geben sie in einem SELECT-Befhel alle Mitarbeiter aus. 
+   Geben Sie dabei Mitarbeiter, die ein Angebot eingestellt haben Name, MitarbeiterNr, GesuchNr, Orte des 
+   Gesuches, Wohnort des Mitarbeiter und Angebots aus. Lassen sie bei Mitarbeiter, die kein Angebot eingestellt haben
+   die Spalte mit Angebot und Orte leer.
+
+
+
+d2) Geben sie in einem SELECT-Befhel alle Mitarbeiter aus. 
+   Geben Sie dabei Kunden die ein Angebot eingestellt haben Name, MitarbeiterNr, GesuchNr, Orte des 
+   Gesuches, Wohnort des Mitarbeiter und Angebots aus, sowie das verwendete Auto. Lassen sie bei Kunden,die kein Angebot
+  eingestellt haben die Spalte mit Angebot und Autos leer.
+
+
+d3) Geben sie in einem SELECT-Befhel alle Strekcen aus. 
+    Geben Sie dabei alle Strecken aus die angeboten werden die AngebotNr und die orte an, lassen sie bei strekcen die nicht angebot werden
+    die Spalten AngebotNr und Orte leer
